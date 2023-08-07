@@ -13,7 +13,7 @@ This project is a browser-based text editor application that offers offline func
 
 ## Usage
 
-You can find the deployed application [here](https://pwa-text-editor-jate1-0f3b37308728.herokuapp.com/
+You can find the deployed application [here](https://pwa-text-editor-jate1-0f3b37308728.herokuapp.com/)
 
 
 ![Screenshot of the application](/images/Screenshot%202023-08-07%20at%209.24.10%20AM.png)
